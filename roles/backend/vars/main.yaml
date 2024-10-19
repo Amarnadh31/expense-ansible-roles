@@ -1,2 +1,4 @@
 mysql_login_password: Amar@123
 host: mysql.expensemind.online
+app_location : /app
+cent: backend
